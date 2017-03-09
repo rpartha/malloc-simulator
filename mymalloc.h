@@ -1,5 +1,5 @@
-//Ramaseshan Parthasarathy, 157006637
-//Nishanth Athreya, 157000649
+//Ramaseshan Parthasarathy
+//Nishanth Athreya
 
 #ifndef __mymalloc_H__
 #define __mymalloc_H__
