@@ -8,7 +8,8 @@ byte block of memory. Although it is not perfect, it attempts to tackle the majo
   1. free()ing pointers that weren't malloc()'d
   2. free()ing items that aren't pointers
   3. double free()ing
-  4. malloc()ing out of bounds
+  4. memory block is not free to malloc()
+  5. user requests size larger than what's available
 
 # Usage
 
