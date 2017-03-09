@@ -10,7 +10,7 @@ byte block of memory. Although it is not perfect, it attempts to tackle the majo
   3. double free()ing
   4. memory block is not free to malloc()
   5. user requests size larger than what's available
-
+  
 # Usage
 
 import "mymalloc.h" and call malloc() and free() like you normally would.
